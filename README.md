@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just a random gamer 🕹🎮
 
 <!--
 **chauhan739/chauhan739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+who loves Marvel but is a fan of **Batman**.
+
+I am also a self-taught enthusiastic 2D game Developer. Currently developing games in C++/SFML.
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chauhan739&count_private=true&show_icons=true&theme=radical"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhan739&langs_count=10&theme=radical&layout=compact"/> |
+| ------------- | ------------- |
